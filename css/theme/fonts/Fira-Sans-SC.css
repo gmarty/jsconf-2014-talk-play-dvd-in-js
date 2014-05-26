@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Fira Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fira Sans SC Regular'), local('Fira-Sans-SC-Regular'), url('FiraWebfonts/Fira Sans SC WOFF/FiraSansSC-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Fira Sans SC';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Fira Sans SC Bold'), local('Fira-Sans-SC-Bold'), url('FiraWebfonts/Fira Sans SC WOFF/FiraSansSC-Bold.woff') format('woff');
+}

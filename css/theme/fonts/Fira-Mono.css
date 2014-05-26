@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fira Mono Regular'), local('Fira-Mono-Regular'), url('FiraWebfonts/Fira Mono WOFF/FiraMono-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Fira Mono Bold'), local('Fira-Mono-Bold'), url('FiraWebfonts/Fira Mono WOFF/FiraMono-Bold.woff') format('woff');
+}
