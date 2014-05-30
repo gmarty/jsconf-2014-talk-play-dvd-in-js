@@ -159,17 +159,6 @@ Web elements can be easily recombined to create rich experience.
 
 ---
 
-Combine web features for **complex applications**
-
-* Video
-* Audio
-* Interactivity
-
-Note:
-The scope of its features is already wide.
-
----
-
 the web can give a **2nd life** to old formats
 
 Note:

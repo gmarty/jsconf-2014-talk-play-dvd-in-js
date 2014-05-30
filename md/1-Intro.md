@@ -59,7 +59,7 @@ So I tried to combine DVD and JavaScript.
 
 ### But why?!!!1!1!ONE
 
-<blockquote class="fragment" data-fragment-index="1">Q: Y U NO use legal offer?</blockquote>
+<blockquote class="fragment" data-fragment-index="1">Q: Y U NO Netflix?</blockquote>
 
 <!-- .element: class="fragment" data-fragment-index="2" -->
 A: Not interesting for me.
@@ -104,7 +104,7 @@ Let's examine the structure of a DVD-video disc now.
 
 ### The DVD specs...
 
-... is copyrighted,
+... is a paying document,
 
 but was *reverse engineered* from discs
 

@@ -70,7 +70,7 @@ Communicate with the browser via binary WebSockets.
 
 Server in Node.js
 
-<img src="img/architecture-1.svg" style="width: 50%;" alt="Using a server" title="Using a server">
+<img src="img/architecture-1.svg" style="width: 50%;" alt="A server in Node.js encodes the video" title="A server in Node.js encodes the video">
 
 ---
 
@@ -86,16 +86,16 @@ Video can't be encoded bits per bits.
 
 ### Experiment 3
 
-* Video is preencoded to webm
+* Encode video beforehand to webm
 
 Note:
-Preencode the video
+Preencode the video.
 
 ---
 
 Preencoded video
 
-<img src="img/architecture-2.svg" style="width: 50%;" alt="Preencode the video" title="Preencode the video">
+<img src="img/architecture-2.svg" style="width: 50%;" alt="A server in Node.js use preencoded video" title="A server in Node.js use preencoded video">
 
 ---
 
